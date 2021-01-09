@@ -1,1 +1,2 @@
 Gałąź master : pierwsza rewizja
+Gałąź branch : kolejna rewizja
